@@ -62,20 +62,6 @@ fun_fact: Coordinated Vyuga Codethon with 100+ participants 🏆
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sasthaathangam-png&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
-<br>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasthaathangam-png&theme=tokyo-night&hide_border=true" />
-</div>
-
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FC9BE,100:0B2027&height=100&section=footer" />
