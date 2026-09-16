@@ -1,40 +1,44 @@
-<h2 align="center">Thangam S K</h2>
+# Hi there, I'm Thangam S K 👋
+
+🚀 **AI & Data Science Engineering Student**  
+💡 Passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
+
+---
+
+### 💫 About Me
+- 🎓 Pursuing B.Tech in **AI & Data Science** at V.S.B College of Engineering and Technical Campus (2023–2027).
+- 📜 Published Patent: **Aegis AI in Cyber Security** (Indian Patent Office).
+- 🛠️ Worked on projects like **AI-Powered Data Quality Auditor** & **Mental Health Companion**.
+- 💻 Practicing Data Structures & Algorithms (Java) and Machine Learning (Python).
+
+---
+
+### 💻 Tech Stack & Tools
+
+**Languages & Frameworks:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science & Tools:**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-I'm a final-year B.Tech <b>Artificial Intelligence & Data Science</b> student focused on building
-practical systems across machine learning, cybersecurity, and applied AI applications.
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-RAW DATA<br>↓<br>DATA PIPELINE<br>↓<br>INTELLIGENT MODEL<br>↓<br>API / APPLICATION<br>↓<br>REAL-WORLD IMPACT
-</p>
+---
 
-<br>
-
-**Aegis AI** — a patented cybersecurity system (Indian Patent Office, App No. 202541034212 A) for
-real-time threat detection and anomaly identification.
-
-**AI-Powered Mental Health Companion** — NLP-driven chatbot that reads emotional tone from text and
-returns personalized wellness suggestions through a web interface.
-
-**GitHub Repository Analyzer** — analytics layer over repository activity: contributor ranking,
-productivity trends, and language usage surfaced through visualizations.
-
-<br>
-
-Feb 2024 · Full Stack Development Intern, Techvolt Software Pvt. Ltd — responsive full-stack applications.
-
-Jun 2025 – Jul 2025 · Machine Learning Intern, Barola Technologies — Python, Pandas, NumPy, Scikit-learn.
-
-Dec 2025 – Jan 2026 · Python for ML Intern, VEI Technologies Pvt. Ltd — ML workflows and data analysis.
-
-<br>
-
-<p align="center">
-<a href="mailto:thangamsastha@gmail.com">Email</a> ·
-<a href="https://linkedin.com/in/thangam-sastha">LinkedIn</a> ·
-<a href="https://leetcode.com/u/thangamsastha/">LeetCode</a> ·
-<a href="https://thangamsk.github.io">Portfolio</a>
-</p>
-
-<p align="center"><i>Building a better tomorrow, one commit at a time.</i></p>
+### 🌐 Connect With Me
+- ✉️ Email: thangamsastha@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+- ⌨️ [LeetCode](https://leetcode.com/YOUR-LEETCODE-USERNAME)
