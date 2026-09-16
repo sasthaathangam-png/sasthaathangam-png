@@ -40,5 +40,5 @@
 
 ### 🌐 Connect With Me
 - ✉️ Email: thangamsastha@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-- ⌨️ [LeetCode](https://leetcode.com/YOUR-LEETCODE-USERNAME)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thangam-sastha-0b8709326/)
+- ⌨️ [LeetCode](https://leetcode.com/u/thangamsastha/)
