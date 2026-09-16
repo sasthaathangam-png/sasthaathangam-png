@@ -32,10 +32,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sasthaathangam-png&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasthaathangam-png&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 ### 🌐 Connect With Me
