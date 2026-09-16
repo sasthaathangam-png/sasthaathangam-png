@@ -32,8 +32,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasthaathangam-png&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasthaathangam-png&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  [https://github-readme-stats.vercel.app/api?username=sasthaathangam-png&show_icons=true&theme=radial](https://github-readme-stats.vercel.app/api?username=sasthaathangam-png&show_icons=true&theme=radial)
+  [https://github-readme-stats.vercel.app/api/top-langs/?username=sasthaathangam-png&layout=compact&theme=radial](https://github-readme-stats.vercel.app/api/top-langs/?username=sasthaathangam-png&layout=compact&theme=radial)
 </p>
 ---
 
