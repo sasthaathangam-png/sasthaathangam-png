@@ -35,7 +35,6 @@
 **Driven Artificial Intelligence and Data Science Engineering student** passionate about constructing intelligent ML models, LLM-powered applications, emotion analysis NLP tools, and robust data pipeline architectures.
 ---
 ### 📜 Published Patent Highlight
-<div align="center">
 |🏆 Patent Title 
 | 🏛️ Office 
 |🆔 Application No 
