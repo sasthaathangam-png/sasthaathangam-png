@@ -21,16 +21,14 @@
 ---
 ### 🌟 About Me
 ```text
- ┌──────────────────────────────────────────────────────────────────────────┐
  │  👩‍💻  Thangam S K                                                       │
  │  🎓  B.Tech in Artificial Intelligence & Data Science (2023 - 2027)      │
  │  🏫  V.S.B College of Engineering and Technical Campus (Academic: 86%)  │
  │  📜  Patent Published: Aegis AI in Cyber Security (Indian Patent Office) │
  │  💼  3x Intern: ML @ Barola Tech | Python ML @ VEI | Fullstack @ Techvolt│
  │  🎯  Event Coordinator: Vyuga Codethon (100+ Participants)               │
- └──────────────────────────────────────────────────────────────────────────┘
-```
-> 
+
+
 
 **Driven Artificial Intelligence and Data Science Engineering student** passionate about constructing intelligent ML models, LLM-powered applications, emotion analysis NLP tools, and robust data pipeline architectures.
 ---
@@ -69,39 +67,9 @@ Aegis AI in Cyber Security
   <img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql,git,github,vscode,linux&theme=dark" />
 </p>
 ---
-### 🚀 Featured AI Projects
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🔍 Powered Data Quality Auditor</h3>
-      <p align="center"><em>LLM & Machine Learning Data Governance</em></p>
-      <ul>
-        <li>Automated anomaly detection, missing value identifier, and deduplication engine for massive dataset pipelines.</li>
-        <li>Custom scoring algorithm to rate datasets by completeness, consistency, and accuracy for data engineering teams.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML%2FLLM-00F7FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 AI Mental Health Companion</h3>
-      <p align="center"><em>NLP Emotion Recognition Chatbot</em></p>
-      <ul>
-        <li>Interactive AI chatbot detecting user emotions from text input using specialized NLP pipelines.</li>
-        <li>Provides personalized mental wellness recommendations through an intuitive web-based interface.</li>
-      </ul>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-00F7FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web%20UI-HTML%2FCSS-FF69B4?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
----
+
 ### 💼 Experience & Internships
+
 - **Barola Technologies** — *Machine Learning Intern* `[Jun 2025 – Jul 2025]`
   - Developed & tuned predictive ML algorithms utilizing Python, Scikit-Learn, Pandas, and NumPy.
 - **VEI Technologies Pvt. Ltd** — *Python for Machine Learning Intern* `[Dec 2025 – Jan 2026]`
