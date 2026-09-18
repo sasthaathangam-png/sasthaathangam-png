@@ -42,17 +42,7 @@
  🆔 Application No 
 |
  🚀 Focus Area 
-|
-|
-:---
-|
-:---
-|
-:---
-|
-:---
-|
-|
+
 **
 Aegis AI in Cyber Security
 **
@@ -65,6 +55,8 @@ Aegis AI in Cyber Security
 |
 </div>
 ---
+
+
 ### 🛠️ Tech Stack & Arsenal
 #### 🧠 Artificial Intelligence, Data Science & Analytics
 <p align="left">
